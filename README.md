@@ -1,4 +1,4 @@
-¯¯\_(ツ)\_/¯¯ 👋 Nice to meet you. 🍻
+<h1> Nice to meet you </h1>
 
 <h1 align="center"><img align="center" src="https://media.giphy.com/media/rlUy2kgxiNm7b2l0lG/giphy.gif" style = "width: -webkit-fill-available;"/></h1>
 
@@ -35,14 +35,6 @@
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=Amazon&logoColor=white&color=3bac3a)
-
-
-## 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐝 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬
-
-ECOMMERCE | WORDPRESS | HTML5 GAME | MOBILE DEVELOPMENT | CRYPTOCURRENCY
-:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-<a href="http://3.128.30.120:3000/launch"><img src="https://portfolio.literally.co.jp/wp-content/uploads/2021/01/restaurant-food-370x370.jpg" width="370"></a> | <a href="https://www.celtic-weddingrings.com/"><img src="https://portfolio.literally.co.jp/wp-content/uploads/2021/01/rings-site-370x370.jpg" width="370"></a>|<a href="https://smallpondgames.com/mahjong/3d-mahjong/"><img src="https://portfolio.literally.co.jp/wp-content/uploads/2021/01/mahjong-370x370.jpg" width="370"></a> | <a href="https://portfolio.literally.co.jp/portfolio/e-sport-tournament-app/"><img src="https://portfolio.literally.co.jp/wp-content/uploads/2021/01/GameShop-1024x1024.jpg" width="370"></a>| <a href="https://aldenplatform.io/"><img src="https://portfolio.literally.co.jp/wp-content/uploads/2021/01/Main_News@2x-370x370.jpg" width="370"></a>
-<a href="https://panenkatv.com/"><img src="https://portfolio.literally.co.jp/wp-content/uploads/2021/01/panenkatv-370x370.jpg" width="370"></a> | <a href="https://girlgaze.com/"><img src="https://portfolio.literally.co.jp/wp-content/uploads/2021/01/job-site-370x370.jpg" width="370"></a>|<a href="http://lyu-apps.herokuapp.com/games/bumper-fifa/"><img src="https://portfolio.literally.co.jp/wp-content/uploads/2021/01/lyu-game-370x370.jpg" width="370"></a> | <a href="https://apps.apple.com/it/app/spreewhere/id1462263606"><img src="https://portfolio.literally.co.jp/wp-content/uploads/2021/01/Spreewhere-Feature-370x370.jpg" width="370"></a>| <a href="https://bitwilly.com/"><img src="https://portfolio.literally.co.jp/wp-content/uploads/2021/01/Bitwilly-370x370.jpg" width="370"></a>
 
 ## 𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭
 <table>
