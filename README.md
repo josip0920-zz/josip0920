@@ -1,6 +1,9 @@
 ¯¯_(ツ)_/¯¯ 👋 Nice to meet you. 🍻
 
-<h1 align="center"><img align="center" src="https://media.giphy.com/media/rlUy2kgxiNm7b2l0lG/giphy.gif" style = "width: -webkit-fill-available;"/></h1>
+<a href="https://github.com/mauriciovancine">
+  <img height="180em" src="https://camo.githubusercontent.com/f63aa1ad45f10c01d514265f34ca4a70280964c4c67ba13de3e3cf80fcbef56b/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6d6175726963696f76616e63696e652673686f775f69636f6e733d74727565267468656d653d64726163756c6126696e636c7564655f616c6c5f636f6d6d6974733d7472756526636f756e745f707269766174653d74727565" data-canonical-src="https://github-readme-stats.vercel.app/api?username=mauriciovancine&amp;show_icons=true&amp;theme=dracula&amp;include_all_commits=true&amp;count_private=true" style="max-width: 100%;">
+  <img height="180em" src="https://camo.githubusercontent.com/97eeaf57dfeee1fa5909dcda45671bfb79ff9fd4af2b4a7ce3682c6cf4aa7095/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6d6175726963696f76616e63696e65266c61796f75743d636f6d70616374266c616e67735f636f756e743d3136267468656d653d64726163756c61" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauriciovancine&amp;layout=compact&amp;langs_count=16&amp;theme=dracula" style="max-width: 100%;">
+</a>
 
 ![](https://img.shields.io/badge/Network-BitCoin-informational?style=flat&logo=bitcoin&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Network-Ethereum-informational?style=flat&logo=ethereum&logoColor=white&color=3bac3a)
