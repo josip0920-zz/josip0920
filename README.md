@@ -1,4 +1,4 @@
-¯¯_(ツ)_/¯¯ 👋 Nice to meet you. 🍻
+👋 Nice to meet you. 🍻
 
 <table>
 <thead>
