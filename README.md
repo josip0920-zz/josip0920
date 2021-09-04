@@ -1,9 +1,13 @@
 ¯¯_(ツ)_/¯¯ 👋 Nice to meet you. 🍻
 
-<a href="https://github.com/mauriciovancine">
-  <img height="180em" src="https://camo.githubusercontent.com/f63aa1ad45f10c01d514265f34ca4a70280964c4c67ba13de3e3cf80fcbef56b/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6d6175726963696f76616e63696e652673686f775f69636f6e733d74727565267468656d653d64726163756c6126696e636c7564655f616c6c5f636f6d6d6974733d7472756526636f756e745f707269766174653d74727565" data-canonical-src="https://github-readme-stats.vercel.app/api?username=Eugene20920&amp;show_icons=true&amp;theme=dracula&amp;include_all_commits=true&amp;count_private=true" style="max-width: 100%;">
-  <img height="180em" src="https://camo.githubusercontent.com/97eeaf57dfeee1fa5909dcda45671bfb79ff9fd4af2b4a7ce3682c6cf4aa7095/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6d6175726963696f76616e63696e65266c61796f75743d636f6d70616374266c616e67735f636f756e743d3136267468656d653d64726163756c61" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eugene20920&amp;layout=compact&amp;langs_count=16&amp;theme=dracula" style="max-width: 100%;">
-</a>
+<table>
+<thead>
+<tr>
+<th><a href="https://github-readme-streak-stats.herokuapp.com/?user=tkohli" rel="nofollow"><img src="https://camo.githubusercontent.com/4df1ee7c70f867a7175a1c529663d372dba31189ce7bef285a4890729366610f/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d746b6f686c69267468656d653d6d65726b6f" alt="trophy" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=tkohli&amp;theme=merko" style="max-width: 100%;"></a></th>
+<th><a href="https://github-profile-trophy.vercel.app/?username=tkohli" rel="nofollow"><img src="https://camo.githubusercontent.com/841086315c1e539a10fe125dd29dc05ef44686ca6969e1c6aa14db46a8efb4eb/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d746b6f686c69267468656d653d6461726b687562266e6f2d62673d7472756526726f773d3226636f6c756d6e3d33266d617267696e2d773d3135266d617267696e2d683d3135" alt="streak" data-canonical-src="https://github-profile-trophy.vercel.app/?username=tkohli&amp;theme=darkhub&amp;no-bg=true&amp;row=2&amp;column=3&amp;margin-w=15&amp;margin-h=15" style="max-width: 100%;"></a></th>
+</tr>
+</thead>
+</table>
 
 ![](https://img.shields.io/badge/Network-BitCoin-informational?style=flat&logo=bitcoin&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Network-Ethereum-informational?style=flat&logo=ethereum&logoColor=white&color=3bac3a)
