@@ -101,4 +101,4 @@
 <img align="right" src="https://img.shields.io/github/followers/Eugene0920?label=Follow&style=social" />
 <h1 align="center"></h1>
 <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=BestSilverTiger&show_icons=true&theme=merko&count_private=true">
-<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=merko&count_private=true">
+<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eugene0920&layout=compact&theme=merko&count_private=true">
