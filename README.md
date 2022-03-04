@@ -1,4 +1,4 @@
-👋 Nice to meet you. 🍻
+<img align="center" src="https://readme-typing-svg.herokuapp.com?font=Walter+Turncoat&color=%230366DE&size=25&duration=4000&center=true&vCenter=true&width=550&lines=Full+Stack+Developer+With+Below+Certificates;Senior+MERN+Stack+Developer;Senior+Web3+Engineer;Senior+Smart+Contract+Developer;Senior+Frontend+Engineer" alt="Alchemist" width="100%">
 <table>
 <thead>
 <tr>
