@@ -2,8 +2,8 @@
 <table>
 <thead>
 <tr>
-<th><a href="https://github-readme-streak-stats.herokuapp.com/?user=tkohli" rel="nofollow"><img src="https://camo.githubusercontent.com/4df1ee7c70f867a7175a1c529663d372dba31189ce7bef285a4890729366610f/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d746b6f686c69267468656d653d6d65726b6f" alt="trophy" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=tkohli&amp;theme=merko" style="max-width: 100%;"></a></th>
-<th><a href="https://github-profile-trophy.vercel.app/?username=tkohli" rel="nofollow"><img src="https://camo.githubusercontent.com/841086315c1e539a10fe125dd29dc05ef44686ca6969e1c6aa14db46a8efb4eb/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d746b6f686c69267468656d653d6461726b687562266e6f2d62673d7472756526726f773d3226636f6c756d6e3d33266d617267696e2d773d3135266d617267696e2d683d3135" alt="streak" data-canonical-src="https://github-profile-trophy.vercel.app/?username=tkohli&amp;theme=darkhub&amp;no-bg=true&amp;row=2&amp;column=3&amp;margin-w=15&amp;margin-h=15" style="max-width: 100%;"></a></th>
+<th><a href="https://github-readme-streak-stats.herokuapp.com/?user=josip0920" rel="nofollow"><img src="https://camo.githubusercontent.com/4df1ee7c70f867a7175a1c529663d372dba31189ce7bef285a4890729366610f/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d746b6f686c69267468656d653d6d65726b6f" alt="trophy" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=tkohli&amp;theme=merko" style="max-width: 100%;"></a></th>
+<th><a href="https://github-profile-trophy.vercel.app/?username=josip0920" rel="nofollow"><img src="https://camo.githubusercontent.com/841086315c1e539a10fe125dd29dc05ef44686ca6969e1c6aa14db46a8efb4eb/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d746b6f686c69267468656d653d6461726b687562266e6f2d62673d7472756526726f773d3226636f6c756d6e3d33266d617267696e2d773d3135266d617267696e2d683d3135" alt="streak" data-canonical-src="https://github-profile-trophy.vercel.app/?username=josip0920&amp;theme=darkhub&amp;no-bg=true&amp;row=2&amp;column=3&amp;margin-w=15&amp;margin-h=15" style="max-width: 100%;"></a></th>
 </tr>
 </thead>
 </table>
@@ -80,23 +80,22 @@
   
 ## 𝐖𝐡𝐚𝐭 I 𝐂𝐚𝐧 𝐃𝐨
 
-<div style="display:flex;">
-<a href="https://app.daily.dev/josip0920"><img src="https://api.daily.dev/devcards/2858fc9911da487199d1df50bd1e1731.png?r=1db" width="400" alt="Josip Neretljak's Dev Card"/></a>
+<div>
+<img align="left" src="https://api.daily.dev/devcards/2858fc9911da487199d1df50bd1e1731.png?r=1db" width="300" alt="Josip Neretljak's Dev Card"/>
 
-    ### 𝘉𝘶𝘪𝘭𝘥𝘪𝘯𝘨 𝘢𝘯 𝘌𝘊 𝘴𝘪𝘵𝘦 𝘧𝘰𝘳 𝘣𝘶𝘴𝘪𝘯𝘦𝘴𝘴
-    𝘐𝘵 𝘪𝘴 𝘱𝘰𝘴𝘴𝘪𝘣𝘭𝘦 𝘵𝘰 𝘤𝘳𝘦𝘢𝘵𝘦 𝘢𝘯 𝘌𝘊 𝘴𝘪𝘵𝘦 𝘢𝘯𝘥 𝘪𝘵𝘴 𝘢𝘱𝘱𝘭𝘪𝘤𝘢𝘵𝘪𝘰𝘯. 𝘊𝘰𝘮𝘱𝘢𝘵𝘪𝘣𝘭𝘦 𝘸𝘪𝘵𝘩 𝘦𝘢𝘤𝘩 𝘱𝘭𝘢𝘵𝘧𝘰𝘳𝘮.
+### 𝘉𝘶𝘪𝘭𝘥𝘪𝘯𝘨 𝘢𝘯 𝘌𝘊 𝘴𝘪𝘵𝘦 𝘧𝘰𝘳 𝘣𝘶𝘴𝘪𝘯𝘦𝘴𝘴
+  𝘐𝘵 𝘪𝘴 𝘱𝘰𝘴𝘴𝘪𝘣𝘭𝘦 𝘵𝘰 𝘤𝘳𝘦𝘢𝘵𝘦 𝘢𝘯 𝘌𝘊 𝘴𝘪𝘵𝘦 𝘢𝘯𝘥 𝘪𝘵𝘴 𝘢𝘱𝘱𝘭𝘪𝘤𝘢𝘵𝘪𝘰𝘯. 𝘊𝘰𝘮𝘱𝘢𝘵𝘪𝘣𝘭𝘦 𝘸𝘪𝘵𝘩 𝘦𝘢𝘤𝘩 𝘱𝘭𝘢𝘵𝘧𝘰𝘳𝘮.
 
-    ### Speedy 𝘞𝘦𝘣 𝘱𝘳𝘰𝘥𝘶𝘤𝘵𝘪𝘰𝘯
-    𝘞𝘦 𝘤𝘢𝘯 𝘢𝘭𝘴𝘰 𝘥𝘦𝘷𝘦𝘭𝘰𝘱 𝘏𝘗, 𝘓𝘗, 𝘢𝘯𝘥 𝘞𝘌𝘉 𝘴𝘦𝘳𝘷𝘪𝘤𝘦𝘴.
+### Speedy 𝘞𝘦𝘣 𝘱𝘳𝘰𝘥𝘶𝘤𝘵𝘪𝘰𝘯
+  𝘞𝘦 𝘤𝘢𝘯 𝘢𝘭𝘴𝘰 𝘥𝘦𝘷𝘦𝘭𝘰𝘱 𝘏𝘗, 𝘓𝘗, 𝘢𝘯𝘥 𝘞𝘌𝘉 𝘴𝘦𝘳𝘷𝘪𝘤𝘦𝘴.
 
-    ### 𝘗𝘊 𝘢𝘯𝘥 𝘚𝘗 𝘢𝘱𝘱𝘭𝘪𝘤𝘢𝘵𝘪𝘰𝘯𝘴
-    𝘐𝘵 𝘤𝘢𝘯 𝘣𝘦 𝘱𝘳𝘰𝘥𝘶𝘤𝘦𝘥 𝘪𝘯𝘦𝘹𝘱𝘦𝘯𝘴𝘪𝘷𝘦𝘭𝘺 𝘢𝘯𝘥 𝘲𝘶𝘪𝘤𝘬𝘭𝘺. 𝘞𝘦 𝘢𝘳𝘦 𝘢𝘭𝘴𝘰 𝘨𝘰𝘰𝘥 𝘢𝘵 𝘴𝘤𝘳𝘢𝘱𝘪𝘯𝘨 𝘸𝘩𝘦𝘯 𝘪𝘵 𝘤𝘰𝘮𝘦𝘴 𝘵𝘰 𝘗𝘊𝘴.
+### 𝘗𝘊 𝘢𝘯𝘥 𝘚𝘗 𝘢𝘱𝘱𝘭𝘪𝘤𝘢𝘵𝘪𝘰𝘯𝘴
+  𝘐𝘵 𝘤𝘢𝘯 𝘣𝘦 𝘱𝘳𝘰𝘥𝘶𝘤𝘦𝘥 𝘪𝘯𝘦𝘹𝘱𝘦𝘯𝘴𝘪𝘷𝘦𝘭𝘺 𝘢𝘯𝘥 𝘲𝘶𝘪𝘤𝘬𝘭𝘺. 𝘞𝘦 𝘢𝘳𝘦 𝘢𝘭𝘴𝘰 𝘨𝘰𝘰𝘥 𝘢𝘵 𝘴𝘤𝘳𝘢𝘱𝘪𝘯𝘨 𝘸𝘩𝘦𝘯 𝘪𝘵 𝘤𝘰𝘮𝘦𝘴 𝘵𝘰 𝘗𝘊𝘴.
 
-    ### 𝘍𝘪𝘯𝘢𝘯𝘤𝘦 𝘪𝘴 𝘰𝘶𝘳 𝘴𝘱𝘦𝘤𝘪𝘢𝘭𝘵𝘺, 𝘞𝘦 𝘢𝘭𝘦𝘢𝘥𝘺 𝘨𝘰𝘵 𝘭𝘰𝘵𝘴 𝘰𝘧 𝘢𝘤𝘩𝘪𝘦𝘷𝘦𝘮𝘦𝘯𝘵𝘴
-    𝘐𝘯 𝘤𝘳𝘺𝘱𝘵𝘰𝘤𝘶𝘳𝘳𝘦𝘯𝘤𝘪𝘦𝘴, 𝘍𝘰𝘳𝘦𝘹 𝘢𝘯𝘥 𝘴𝘵𝘰𝘤𝘬𝘴, 𝘸𝘦 𝘤𝘢𝘯 𝘤𝘳𝘦𝘢𝘵𝘦 𝘢𝘯𝘥 𝘢𝘯𝘢𝘭𝘺𝘻𝘦 𝘵𝘰𝘰𝘭𝘴 𝘢𝘵 𝘢 𝘩𝘪𝘨𝘩 𝘭𝘦𝘷𝘦𝘭.
-
-
+### 𝘍𝘪𝘯𝘢𝘯𝘤𝘦 𝘪𝘴 𝘰𝘶𝘳 𝘴𝘱𝘦𝘤𝘪𝘢𝘭𝘵𝘺, 𝘞𝘦 𝘢𝘭𝘦𝘢𝘥𝘺 𝘨𝘰𝘵 𝘭𝘰𝘵𝘴 𝘰𝘧 𝘢𝘤𝘩𝘪𝘦𝘷𝘦𝘮𝘦𝘯𝘵𝘴
+  𝘐𝘯 𝘤𝘳𝘺𝘱𝘵𝘰𝘤𝘶𝘳𝘳𝘦𝘯𝘤𝘪𝘦𝘴, 𝘍𝘰𝘳𝘦𝘹 𝘢𝘯𝘥 𝘴𝘵𝘰𝘤𝘬𝘴, 𝘸𝘦 𝘤𝘢𝘯 𝘤𝘳𝘦𝘢𝘵𝘦 𝘢𝘯𝘥 𝘢𝘯𝘢𝘭𝘺𝘻𝘦 𝘵𝘰𝘰𝘭𝘴 𝘢𝘵 𝘢 𝘩𝘪𝘨𝘩 𝘭𝘦𝘷𝘦𝘭.
 </div>
 
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Eugene0920.Eugene0920" />
-<img align="right" src="https://img.shields.io/github/followers/Eugene0920?label=Follow&style=social" />
+
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=josip0920" />
+<img align="right" src="https://img.shields.io/github/followers/josip0920?label=Follow&style=social" />
