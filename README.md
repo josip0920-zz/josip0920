@@ -1,4 +1,4 @@
-<img align="center" src="https://readme-typing-svg.herokuapp.com?font=Walter+Turncoat&color=%230366DE&size=25&duration=4000&center=true&vCenter=true&width=550&lines=Full+Stack+Developer+With+Below+Certificates;Senior+MERN+Stack+Developer;Senior+Web3+Engineer;Senior+Smart+Contract+Developer;Senior+Frontend+Engineer" alt="Alchemist" width="100%">
+<img align="center" src="https://readme-typing-svg.herokuapp.com?font=Walter+Turncoat&color=%230366DE&size=25&duration=4000&center=true&vCenter=true&width=550&lines=Full+Stack+Developer+With+Below+Certificates;Senior+MERN+Stack+Developer;Senior+Web3+Engineer;Senior+Blockchain+Engineer;Senior+Frontend+Developer" alt="Josip Neretljak" width="100%">
 <table>
 <thead>
 <tr>
@@ -81,8 +81,9 @@
 ## 𝐖𝐡𝐚𝐭 I 𝐂𝐚𝐧 𝐃𝐨
 
 <div>
+<a  align="left" href="https://app.daily.dev/josip0920">
 <img align="left" src="https://api.daily.dev/devcards/2858fc9911da487199d1df50bd1e1731.png?r=1db" width="300" alt="Josip Neretljak's Dev Card"/>
-
+</a>
 ### 𝘉𝘶𝘪𝘭𝘥𝘪𝘯𝘨 𝘢𝘯 𝘌𝘊 𝘴𝘪𝘵𝘦 𝘧𝘰𝘳 𝘣𝘶𝘴𝘪𝘯𝘦𝘴𝘴
   𝘐𝘵 𝘪𝘴 𝘱𝘰𝘴𝘴𝘪𝘣𝘭𝘦 𝘵𝘰 𝘤𝘳𝘦𝘢𝘵𝘦 𝘢𝘯 𝘌𝘊 𝘴𝘪𝘵𝘦 𝘢𝘯𝘥 𝘪𝘵𝘴 𝘢𝘱𝘱𝘭𝘪𝘤𝘢𝘵𝘪𝘰𝘯. 𝘊𝘰𝘮𝘱𝘢𝘵𝘪𝘣𝘭𝘦 𝘸𝘪𝘵𝘩 𝘦𝘢𝘤𝘩 𝘱𝘭𝘢𝘵𝘧𝘰𝘳𝘮.
 
